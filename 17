@@ -41,82 +41,87 @@ http://nov.rlnk.ru:8000/radio.recrdb
 http://cp.time4radio.ru:8003/stream
 #EXTINF:-1 group-title="RADIO RECORD-70 DANC", RADIO RECORD-70 DANCE
 http://radiorecord.hostingradio.ru/197096.aacp
-#EXTINF:-1 group-title="RADIO RECORD-00Х", RADIO RECORD-00Х
+#EXTM3U
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-00Х
 http://radiorecord.hostingradio.ru/200096.aacp
-#EXTINF:-1 group-title="RADIO RECORD-AMBIENT", RADIO RECORD-AMBIENT
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-AMBIENT
 http://radiorecord.hostingradio.ru/ambient96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-ARMIN V", RADIO RECORD-ARMIN VAN BUUREN
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-ARMIN VAN BUUREN
 http://radiorecord.hostingradio.ru/armin96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-BREAKS", RADIO RECORD-BREAKS
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-BREAKS
 http://radiorecord.hostingradio.ru/brks96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-COMPLEX", RADIO RECORD-COMPLEXTRO
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-COMPLEXTRO
 http://radiorecord.hostingradio.ru/complextro96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-DEEP", RADIO RECORD-DEEP
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-DEEP
 http://radiorecord.hostingradio.ru/deep96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-DRUM'N'", RADIO RECORD-DRUM'N'BASS CLASSICS
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-DRUM'N'BASS CLASSICS
 http://radiorecord.hostingradio.ru/drumhits96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-DUBSTEP", RADIO RECORD-DUBSTEP
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-DUBSTEP
 http://radiorecord.hostingradio.ru/dub96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-EDM", RADIO RECORD-EDM
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-EDM
 http://radiorecord.hostingradio.ru/club96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-GVOZD", RADIO RECORD-GVOZD
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-GVOZD
 http://radiorecord.hostingradio.ru/djgvozd96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-HARD BA", RADIO RECORD-HARD BASS
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-HARD BASS
 http://radiorecord.hostingradio.ru/hbass96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-INNOCEN", RADIO RECORD-INNOCENCE
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-INNOCENCE
 http://radiorecord.hostingradio.ru/ibiza96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-ВЕСНУШК", RADIO RECORD-ВЕСНУШКА FM
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-ВЕСНУШКА FM
 http://radiorecord.hostingradio.ru/deti96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-ГОП FM", RADIO RECORD-ГОП FM
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-ГОП FM
 http://radiorecord.hostingradio.ru/gop96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-КОЛБАСН", RADIO RECORD-КОЛБАСНЫЙ ЦЕХ
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-КОЛБАСНЫЙ ЦЕХ
 http://radiorecord.hostingradio.ru/pump96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-МАЯТНИК", RADIO RECORD-МАЯТНИК ФУКО
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-МАЯТНИК ФУКО
 http://radiorecord.hostingradio.ru/mf96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-МЕДЛЯК", RADIO RECORD-МЕДЛЯК FM
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-МЕДЛЯК FM
 http://radiorecord.hostingradio.ru/mdl96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-НА ХАЙП", RADIO RECORD-НА ХАЙПЕ
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-НА ХАЙПЕ
 http://radiorecord.hostingradio.ru/hype96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-НА ШАШЛ", RADIO RECORD-НА ШАШЛЫКИ!
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-НА ШАШЛЫКИ!
 http://radiorecord.hostingradio.ru/nashashlyki96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-НАФТАЛИ", RADIO RECORD-НАФТАЛИН FM
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-НАФТАЛИН FM
 http://radiorecord.hostingradio.ru/naft96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-РУКИ ВВ", RADIO RECORD-РУКИ ВВЕРХ!
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-РУКИ ВВЕРХ!
 http://radiorecord.hostingradio.ru/rv96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-РУССКАЯ", RADIO RECORD-РУССКАЯ ЗИМА
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-РУССКАЯ ЗИМА
 http://radiorecord.hostingradio.ru/ruszima96.aacp
-#EXTINF:-1 group-title="RADIO RECORD-СУПЕРДИ", RADIO RECORD-СУПЕРДИСКОТЕКА 90-Х
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-СУПЕРДИСКОТЕКА 90-Х
 http://radiorecord.hostingradio.ru/sd9096.aacp
-#EXTINF:-1 group-title="RADIO RECORD-ЦВЕТКОF", RADIO RECORD-ЦВЕТКОFF
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-ЦВЕТКОFF
 http://radiorecord.hostingradio.ru/tsvetkov96.aacp
-#EXTINF:-1 group-title="RADIO SPINNER - ЭТО", RADIO SPINNER - ЭТО КАВКАЗ
+#EXTINF:-1 group-title="РАДИО", RADIO SPINNER - ЭТО КАВКАЗ
 https://live.radiospinner.com/etkvkz-64
-#EXTINF:-1 group-title="АМГ РАДИО - ШТОРМ FM", АМГ РАДИО - ШТОРМ FM
+#EXTINF:-1 group-title="РАДИО", АМГ РАДИО - ШТОРМ FM
 http://shtorm.amgradio.ru/shtormfm
-#EXTINF:-1 group-title="АВТОРАДИО", АВТОРАДИО
+#EXTINF:-1 group-title="РАДИО", АВТОРАДИО
 http://ic7.101.ru:8000/v3_1
-#EXTINF:-1 group-title="ДОРОЖНОЕ РАДИО", ДОРОЖНОЕ РАДИО
+#EXTINF:-1 group-title="РАДИО", ДОРОЖНОЕ РАДИО
 http://emgregion.hostingradio.ru:8064/moscow.dorognoe.mp3
-#EXTINF:-1 group-title="КАМЕДИ РАДИО", КАМЕДИ РАДИО
+#EXTINF:-1 group-title="РАДИО", КАМЕДИ РАДИО
 http://ic7.101.ru:8000/v11_1
-#EXTINF:-1 group-title="ЛАВ РАДИО", ЛАВ РАДИО
+#EXTINF:-1 group-title="РАДИО", ЛАВ РАДИО
 http://5.178.80.42:8004/12_love_256
-#EXTINF:-1 group-title="МУЗЫКА ИЗ ИГР:РАДИО", МУЗЫКА ИЗ ИГР:РАДИО 8BIT
+#EXTINF:-1 group-title="РАДИО", МУЗЫКА ИЗ ИГР:РАДИО 8BIT
 http://listen4.myradio24.com:9000/85516
-#EXTINF:-1 group-title="МУЗЫКА ИЗ ИГР:РАДИО", МУЗЫКА ИЗ ИГР:РАДИО DENDY-COLLECTION
+#EXTINF:-1 group-title="РАДИО", МУЗЫКА ИЗ ИГР:РАДИО DENDY-COLLECTION
 http://sergeisam.fvds.ru:4480/radio
-#EXTINF:-1 group-title="МУЗЫКА ИЗ ИГР:РАДИО", МУЗЫКА ИЗ ИГР:РАДИО RETRO PC GAME
+#EXTINF:-1 group-title="РАДИО", МУЗЫКА ИЗ ИГР:РАДИО RETRO PC GAME
 http://gyusyabu.ddo.jp:8000/;stream.mp3
-#EXTINF:-1 group-title="МУЗЫКА ИЗ ИГР:РАДИО", МУЗЫКА ИЗ ИГР:РАДИО SEGA
+#EXTINF:-1 group-title="РАДИО", МУЗЫКА ИЗ ИГР:РАДИО SEGA
 http://content.radiosega.net:8006/live
-#EXTINF:-1 group-title="РАДИО DFM", РАДИО DFM
+#EXTINF:-1 group-title="РАДИО", РАДИО DFM
 http://dfm.hostingradio.ru/dfm128.mp3
-#EXTINF:-1 group-title="РАДИО ЕВРОПА ПЛЮС", РАДИО ЕВРОПА ПЛЮС
+#EXTINF:-1 group-title="РАДИО", РАДИО ЕВРОПА ПЛЮС
 http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3
-#EXTINF:-1 group-title="РАДИО MAXIMUM - RAMM", РАДИО MAXIMUM - RAMMSTEIN
+#EXTINF:-1 group-title="РАДИО", РАДИО MAXIMUM - RAMMSTEIN
 http://maximum.hostingradio.ru/rammstein96.aacp
-#EXTINF:-1 group-title="РАДИО NRJ", РАДИО NRJ
+#EXTINF:-1 group-title="РАДИО", РАДИО NRJ
 http://ic7.101.ru:8000/v1_1
+
+
+
+
 #EXTINF:-1 group-title="ОСНОВНЫЕ", ПЕРВЫЙ КАНАЛ
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1.m3u8
 #EXTINF:-1 group-title="ОСНОВНЫЕ", ПЕРВЫЙ КАНАЛ ЕВРОПА
@@ -1305,6 +1310,10 @@ http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/392.m3u8
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/393.m3u8
 #EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ", 360 (АРМАВИР) [ТЕСТ]
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/394.m3u8
+
+
+
+
 #EXTINF:-1 group-title="НОВОСТИ", 360° НОВОСТИ
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/395.m3u8
 #EXTINF:-1 group-title="НОВОСТИ", 360° НОВОСТИ HD
@@ -1417,6 +1426,10 @@ http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/451.m3u8
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/452.m3u8
 #EXTINF:-1 group-title="НОВОСТИ", ТСВ ПРИДНЕСТРОВЬЕ HD
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/454.m3u8
+
+
+
+
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", МАТЧ! ТВ HD
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/M_HD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", МАТЧ! HD ORIG
@@ -1713,86 +1726,92 @@ http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936906/video.m3u8?token=UmFz
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936907/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
 #EXTINF:-1 group-title="СПОРТИВНЫЕ", ONE 2 IL
 http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/08936909/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB375", РЫЖИЙ
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/rishiy/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB70", GULLI GIRL
-http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/GULLI/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1005", CARTOONITO
-http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/BOOMERANG/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB178", В ГОСТЯХ У СКАЗКИ
-http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/vgostyaxuskazki/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB3730", NICKTOONS
-http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/Nicktoons/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1137", CARTOON NETWORK RU
-http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/CARTOONNETWORK/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1652", JIMJAM
-http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/JIMJAM/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4237", NICKELODEON HD
-http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/NICKHD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB188", КАРУСЕЛЬ
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/KARUSEL/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB299", МУЛЬТ HD
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/MULT/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB265", МАМА
-http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/mama/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2406", ТЕЛЕКАНАЛ ПИНГВИН
-http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/malish/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2836", СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
-http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/sovmult/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB396", СТС KIDS HD
-http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/CTCKIDSHD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB387", СОЛНЦЕ
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/DISNEY/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB63", FAN HD
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/fan_hd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB223", КАПИТАН ФАНТАСТИКА HD
-http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/kapfan/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB301", МУЛЬТИМУЗЫКА
-http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/mmusika/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB300", МУЛЬТИЛАНДИЯ
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/multilandia/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2300", О!
-http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/O/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2227", NICKELODEON
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/nick/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2225", NICK JR.
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/nickjr/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB428", УНИКУМ
-http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/unikum/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB23", ANI
-http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/YW5p/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB384", СМАЙЛИК ТВ
-http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/smAiylik_tv/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB399", СУПЕРГЕРОИ
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/superhero/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB133", TIJI
-http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936917/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB188", КАРУСЕЛЬ HD
-http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/karusel_hd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1879", ЛЁВА
-http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/0JvRkdCy0LBIRA/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4067", DISNEY JUNIOR IL
-http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/DISNEY_IL_JR/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB415", ТИП-ТОП HD
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/tiptop_kinozal_orig/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB80", KIDS TV HD
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/KIDS_TV/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB52", DUCKTV HD
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/ducktv/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4067", DISNEY JUNIOR
-http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/disney_junior/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB41", CARTOON CLASSICS
-http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936908/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB235", КИНОМУЛЬТ
-http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/08936907/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1160", ЧИЖИК HD
-http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/08936909/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB187", ДЕТСКИЙ МИР HD
-http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/detskiy/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB3343", MTV 80'S
-http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/MTV80/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2135", MTV 90'S
 
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="ДЕТСКИЕ", РЫЖИЙ
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/rishiy/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", GULLI GIRL
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/GULLI/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", CARTOONITO
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/BOOMERANG/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", В ГОСТЯХ У СКАЗКИ
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/vgostyaxuskazki/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", NICKTOONS
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/Nicktoons/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", CARTOON NETWORK RU
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/CARTOONNETWORK/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", JIMJAM
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/JIMJAM/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", NICKELODEON HD
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/NICKHD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", КАРУСЕЛЬ
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/KARUSEL/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", МУЛЬТ HD
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/MULT/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", МАМА
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/mama/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", ТЕЛЕКАНАЛ ПИНГВИН
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/malish/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", СОВЕТСКИЕ МУЛЬТФИЛЬМЫ
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/sovmult/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", СТС KIDS HD
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/CTCKIDSHD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", СОЛНЦЕ
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/DISNEY/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", FAN HD
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/fan_hd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", КАПИТАН ФАНТАСТИКА HD
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/kapfan/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", МУЛЬТИМУЗЫКА
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/mmusika/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", МУЛЬТИЛАНДИЯ
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/multilandia/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", О!
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/O/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", NICKELODEON
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/nick/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", NICK JR.
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/nickjr/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", УНИКУМ
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/unikum/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", ANI
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/YW5p/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", СМАЙЛИК ТВ
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/smAiylik_tv/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", СУПЕРГЕРОИ
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/superhero/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", TIJI
+http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936917/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", КАРУСЕЛЬ HD
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/karusel_hd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", ЛЁВА
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/0JvRkdCy0LBIRA/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", DISNEY JUNIOR IL
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/DISNEY_IL_JR/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", ТИП-ТОП HD
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/tiptop_kinozal_orig/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", KIDS TV HD
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/KIDS_TV/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", DUCKTV HD
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/ducktv/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", DISNEY JUNIOR
+http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/disney_junior/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", CARTOON CLASSICS
+http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936908/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", КИНОМУЛЬТ
+http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/08936907/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", ЧИЖИК HD
+http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/08936909/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+#EXTINF:-1 group-title="ДЕТСКИЕ", ДЕТСКИЙ МИР HD
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/detskiy/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+
+
+
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", MTV 80'S
+http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/MTV80/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", RU.TV
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1106.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", RU.TV HD
@@ -1997,464 +2016,476 @@ http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1219.m3u8
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1220.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ", BET JAMS
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1221.m3u8
-#EXTINF:-1 group-title="ELB361", РЕТРО
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-title="КИНО", РЕТРО
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/RETRO/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB291", МОСФИЛЬМ: ЗОЛОТАЯ КОЛЛЕКЦИЯ HD
+#EXTINF:-1 group-title="КИНО", МОСФИЛЬМ: ЗОЛОТАЯ КОЛЛЕКЦИЯ HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/mosfilmhd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2114", МОСФИЛЬМ: ЗОЛОТАЯ КОЛЛЕКЦИЯ +4 HD
+#EXTINF:-1 group-title="КИНО", МОСФИЛЬМ: ЗОЛОТАЯ КОЛЛЕКЦИЯ +4 HD
 http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/mosfilm_pl4/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2835", СОВЕТСКОЕ КИНО
+#EXTINF:-1 group-title="КИНО", СОВЕТСКОЕ КИНО
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/SOVKINO/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2834", СОВЕТСКАЯ КИНОКЛАССИКА HD
+#EXTINF:-1 group-title="КИНО", СОВЕТСКАЯ КИНОКЛАССИКА HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936904/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2191", ЛЮБИМОЕ HD
+#EXTINF:-1 group-title="КИНО", ЛЮБИМОЕ HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/LUBIMOE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB362", РОДНОЕ КИНО
+#EXTINF:-1 group-title="КИНО", РОДНОЕ КИНО
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/rodnoe_kino/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1354", ДУШЕВНОЕ HD
+#EXTINF:-1 group-title="КИНО", ДУШЕВНОЕ HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/DUSHEVNOE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB312", НАШЕ НОВОЕ КИНО HD
+#EXTINF:-1 group-title="КИНО", НАШЕ НОВОЕ КИНО HD
 http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/nashenovoekino/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB156", VIJU+ VIP PREMIERE HD
+#EXTINF:-1 group-title="КИНО", VIJU+ VIP PREMIERE HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/VIPPREMIERE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB154", VIJU+ VIP MEGAHIT HD
+#EXTINF:-1 group-title="КИНО", VIJU+ VIP MEGAHIT HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/VIPMEGAHIT/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB153", VIJU+ VIP COMEDY HD
+#EXTINF:-1 group-title="КИНО", VIJU+ VIP COMEDY HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/VIPCOMEDY/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB149", VIJU TV1000 HD
+#EXTINF:-1 group-title="КИНО", VIJU TV1000 HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/TV1000/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB149", VIJU TV1000
+#EXTINF:-1 group-title="КИНО", VIJU TV1000
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/tv1000_SD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB150", VIJU TV1000 ACTION HD
+#EXTINF:-1 group-title="КИНО", VIJU TV1000 ACTION HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/TV1000ACTION/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB150", VIJU TV1000 ACTION
+#EXTINF:-1 group-title="КИНО", VIJU TV1000 ACTION
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/tv1000_action_SD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB152", VIJU TV1000 РУССКОЕ КИНО HD
+#EXTINF:-1 group-title="КИНО", VIJU TV1000 РУССКОЕ КИНО HD
 http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/TV1000RUSKINO/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB152", VIJU TV1000 РУССКОЕ КИНО
+#EXTINF:-1 group-title="КИНО", VIJU TV1000 РУССКОЕ КИНО
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/tv1000_rus_kino_SD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB157", VIJU+ VIP SERIAL HD
+#EXTINF:-1 group-title="КИНО", VIJU+ VIP SERIAL HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/VIPSERIAL/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB462", VIJU TV1000 НОВЕЛЛА HD
+#EXTINF:-1 group-title="КИНО", VIJU TV1000 НОВЕЛЛА HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936906/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB3082", TV 1000 WORLD KINO
+#EXTINF:-1 group-title="КИНО", TV 1000 WORLD KINO
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/dHYxMDAwX3/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB3366", VIASAT KINO MEGAHIT HD CEE
+#EXTINF:-1 group-title="КИНО", VIASAT KINO MEGAHIT HD CEE
 http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/dmlwbWVnYWhpd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB3077", VIASAT KINO ACTION HD CEE
+#EXTINF:-1 group-title="КИНО", VIASAT KINO ACTION HD CEE
 http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/TV1000_ACTION_CEE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB3364", VIASAT KINO COMEDY HD CEE
+#EXTINF:-1 group-title="КИНО", VIASAT KINO COMEDY HD CEE
 http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/dmlwY29tZWR5Q0VF/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB22", AMEDIA PREMIUM HD
+#EXTINF:-1 group-title="КИНО", AMEDIA PREMIUM HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/ahomeofhbo2/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB21", AMEDIA HIT HD
+#EXTINF:-1 group-title="КИНО", AMEDIA HIT HD
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/ahomeofhbo1/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB18", A1 HD
+#EXTINF:-1 group-title="КИНО", A1 HD
 http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/AMEDIA1/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB20", A2 HD
+#EXTINF:-1 group-title="КИНО", A2 HD
 http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/AMEDIA2/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB249", КОМЕДИЯ
+#EXTINF:-1 group-title="КИНО", КОМЕДИЯ
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/COMEDIA/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB143", КОМЕДИЙНОЕ HD
+#EXTINF:-1 group-title="КИНО", КОМЕДИЙНОЕ HD
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/komediinoe/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB229", КИНОКОМЕДИЯ HD
+#EXTINF:-1 group-title="КИНО", КИНОКОМЕДИЯ HD
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/kinokomedia/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB233", КИНОМИКС HD
+#EXTINF:-1 group-title="КИНО", КИНОМИКС HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/KINOMIKS/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB242", КИНОСЕМЬЯ HD
+#EXTINF:-1 group-title="КИНО", КИНОСЕМЬЯ HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/KINOSEMYA/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB241", КИНОСЕМЬЯ
+#EXTINF:-1 group-title="КИНО", КИНОСЕМЬЯ
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/kinosemya_sd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB240", КИНОСВИДАНИЕ HD
+#EXTINF:-1 group-title="КИНО", КИНОСВИДАНИЕ HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/KINOSVIDANIE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB238", КИНОПРЕМЬЕРА HD
+#EXTINF:-1 group-title="КИНО", КИНОПРЕМЬЕРА HD
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/KINOPREMIERA/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB244", КИНОУЖАС HD
+#EXTINF:-1 group-title="КИНО", КИНОУЖАС HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/KinoUzas/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2326", ОСТРОСЮЖЕТНОЕ HD
+#EXTINF:-1 group-title="КИНО", ОСТРОСЮЖЕТНОЕ HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/OSTROSUJETNOE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2452", ПРЕМИАЛЬНОЕ HD
+#EXTINF:-1 group-title="КИНО", ПРЕМИАЛЬНОЕ HD
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/PREMIALNOE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB311", НАШЕ МУЖСКОЕ HD
+#EXTINF:-1 group-title="КИНО", НАШЕ МУЖСКОЕ HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/nashemuzhskoe/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB434", ХИТ HD
+#EXTINF:-1 group-title="КИНО", ХИТ HD
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/HIT/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB228", КИНО ТВ HD
+#EXTINF:-1 group-title="КИНО", КИНО ТВ HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/kinotv/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2565", РОМАНТИЧНОЕ HD
+#EXTINF:-1 group-title="КИНО", РОМАНТИЧНОЕ HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/ROMANTIC/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB145", VHS-КА HD
+#EXTINF:-1 group-title="КИНО", VHS-КА HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936910/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4", . RED HD
+#EXTINF:-1 group-title="КИНО", . RED HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/RED/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2", . BLACK
+#EXTINF:-1 group-title="КИНО", . BLACK
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/black/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB5", . SCI-FI
+#EXTINF:-1 group-title="КИНО", . SCI-FI
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/SCIFI/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB72", HOLLYWOOD
+#EXTINF:-1 group-title="КИНО", HOLLYWOOD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/HOLLYWOOD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB81", КИНОДЖЕМ 1 HD
+#EXTINF:-1 group-title="КИНО", КИНОДЖЕМ 1 HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/KINOJAM1/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB82", КИНОДЖЕМ 2 HD
+#EXTINF:-1 group-title="КИНО", КИНОДЖЕМ 2 HD
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/KINOJAM2/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB237", КИНОПОКАЗ HD
+#EXTINF:-1 group-title="КИНО", КИНОПОКАЗ HD
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/kinopokaz/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB45", СИНЕМА
+#EXTINF:-1 group-title="КИНО", СИНЕМА
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/cinema/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB232", КИНОМАН
+#EXTINF:-1 group-title="КИНО", КИНОМАН
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/a2lub3NhdA/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1167", CINEMA КОСМОС ТВ HD
+#EXTINF:-1 group-title="КИНО", CINEMA КОСМОС ТВ HD
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/cinemacosmos/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB173", БЛОКБАСТЕР HD
+#EXTINF:-1 group-title="КИНО", БЛОКБАСТЕР HD
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/bbaster/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB3389", ВРЕМЯ
+#EXTINF:-1 group-title="КИНО", ВРЕМЯ
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/vremya/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB186", ДЕНЬ ПОБЕДЫ HD
+#EXTINF:-1 group-title="КИНО", ДЕНЬ ПОБЕДЫ HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/DENPOBEDY/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2418", ПОБЕДА HD
+#EXTINF:-1 group-title="КИНО", ПОБЕДА HD
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/POBEDA/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB373", РУССКИЙ РОМАН HD
+#EXTINF:-1 group-title="КИНО", РУССКИЙ РОМАН HD
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/RUSROMAN/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1333", ДОМ КИНО
+#EXTINF:-1 group-title="КИНО", ДОМ КИНО
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/domkino/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1335", ДОМ КИНО ПРЕМИУМ HD
+#EXTINF:-1 group-title="КИНО", ДОМ КИНО ПРЕМИУМ HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/domkinopremium/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB369", РУССКИЙ ДЕТЕКТИВ
+#EXTINF:-1 group-title="КИНО", РУССКИЙ ДЕТЕКТИВ
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/rdet/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB368", РУССКИЙ БЕСТСЕЛЛЕР
+#EXTINF:-1 group-title="КИНО", РУССКИЙ БЕСТСЕЛЛЕР
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/rusbest/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB370", РУССКИЙ ИЛЛЮЗИОН HD
+#EXTINF:-1 group-title="КИНО", РУССКИЙ ИЛЛЮЗИОН HD
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/rusiluzhd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB51", DETECTIVE JAM HD
+#EXTINF:-1 group-title="КИНО", DETECTIVE JAM HD
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/DETECTIVE_JAM/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB286", МИР СЕРИАЛА HD
+#EXTINF:-1 group-title="КИНО", МИР СЕРИАЛА HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/MIRSERIALA/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB31", БОЛТ HD
+#EXTINF:-1 group-title="КИНО", БОЛТ HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/BOLT/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB168", АРСЕНАЛ HD
+#EXTINF:-1 group-title="КИНО", АРСЕНАЛ HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/ARSENAL/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB97", PLAN_B
+#EXTINF:-1 group-title="КИНО", PLAN_B
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/plan_b/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB128", START WORLD
+#EXTINF:-1 group-title="КИНО", START WORLD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/start_world/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB127", START AIR
+#EXTINF:-1 group-title="КИНО", START AIR
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/start_air/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2678", ШОКИРУЮЩЕЕ HD
+#EXTINF:-1 group-title="КИНО", ШОКИРУЮЩЕЕ HD
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/shok/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB112", SCREAM HD
+#EXTINF:-1 group-title="КИНО", SCREAM HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936901/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB137", TRASH HD
+#EXTINF:-1 group-title="КИНО", TRASH HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/TRASH/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2901", СТРАШНОЕ HD
+#EXTINF:-1 group-title="КИНО", СТРАШНОЕ HD
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/STRASHNOE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB318", НСТ
+#EXTINF:-1 group-title="КИНО", НСТ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/NST/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4223", COMEDY CENTRAL
+#EXTINF:-1 group-title="КИНО", COMEDY CENTRAL
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/PARAMOUNTCOMEDY/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB67", FLIX SNIP HD
+#EXTINF:-1 group-title="КИНО", FLIX SNIP HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/flixsnip_hd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2978", TIMELESS DIZI CHANNEL HD
+#EXTINF:-1 group-title="КИНО", TIMELESS DIZI CHANNEL HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/dizi/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB3080", GO3 FILMS HD
+#EXTINF:-1 group-title="КИНО", GO3 FILMS HD
 http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/tv3film/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB196", ДОРАМА HD
+#EXTINF:-1 group-title="КИНО", ДОРАМА HD
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/dorAmA_HD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB119", SHOT TV
+#EXTINF:-1 group-title="КИНО", SHOT TV
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/Shot_TV/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB397", СТС LOVE
+#EXTINF:-1 group-title="КИНО", СТС LOVE
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/CTCLOVE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB397", СТС LOVE
+#EXTINF:-1 group-title="КИНО", СТС LOVE
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/sts_Love/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4322", HOT CINEMA 1 HD
+#EXTINF:-1 group-title="КИНО", HOT CINEMA 1 HD
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/HOT_Cinema_1/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4323", HOT CINEMA 2 HD
+#EXTINF:-1 group-title="КИНО", HOT CINEMA 2 HD
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/HOT_Cinema_2/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4324", HOT CINEMA 3 HD
+#EXTINF:-1 group-title="КИНО", HOT CINEMA 3 HD
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/HOT_Cinema_3/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4325", HOT CINEMA 4 HD
+#EXTINF:-1 group-title="КИНО", HOT CINEMA 4 HD
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/HOT_Cinema_4/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB30", BOLLYWOOD HD
+#EXTINF:-1 group-title="КИНО", BOLLYWOOD HD
 http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/BOLLYWOOD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB222", КАМЕДИ HD
+#EXTINF:-1 group-title="КИНО", КАМЕДИ HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/COMEDY/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB245", КИНОХИТ
+#EXTINF:-1 group-title="КИНО", КИНОХИТ
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/kinohit/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB295", МУЖСКОЕ КИНО HD
+#EXTINF:-1 group-title="КИНО", МУЖСКОЕ КИНО HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/muzhskoekino/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB308", НАШ КИНОПОКАЗ HD
+#EXTINF:-1 group-title="КИНО", НАШ КИНОПОКАЗ HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/nashkinopokaz/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB349", ПРО ЛЮБОВЬ HD
+#EXTINF:-1 group-title="КИНО", ПРО ЛЮБОВЬ HD
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/prolubov/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4227", FOX LIFE HD
+#EXTINF:-1 group-title="КИНО", FOX LIFE HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/FOXLIFE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2902", СТРК
+#EXTINF:-1 group-title="КИНО", СТРК
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/strk_HD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4226", FOX HD
+#EXTINF:-1 group-title="КИНО", FOX HD
 http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/FOXHD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB262", НАШЕ ЛЮБИМОЕ КИНО
+#EXTINF:-1 group-title="КИНО", НАШЕ ЛЮБИМОЕ КИНО
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/NasheLubimoeKino/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1387", EPIC DRAMA HD
+#EXTINF:-1 group-title="КИНО", EPIC DRAMA HD
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/epic_drama_hd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1502", FILMBOX
+#EXTINF:-1 group-title="КИНО", FILMBOX
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/FilmBox/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1497", FILMBOX ARTHOUSE
+#EXTINF:-1 group-title="КИНО", FILMBOX ARTHOUSE
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/FilmBox_Arthouse/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1727", KINO 24
+#EXTINF:-1 group-title="КИНО", KINO 24
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/KINO24/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB217", ИНДИЯ
+#EXTINF:-1 group-title="КИНО", ИНДИЯ
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/zee/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB214", ИЛЛЮЗИОН +
+#EXTINF:-1 group-title="КИНО", ИЛЛЮЗИОН +
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/illyuzionplus_HD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2237", КИНОМЕНЮ HD
+#EXTINF:-1 group-title="КИНО", КИНОМЕНЮ HD
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/a2lub21lbnU/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1763", КИНОСЕЗОН
+#EXTINF:-1 group-title="КИНО", КИНОСЕЗОН
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/kinosezon/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB243", КИНОСЕРИЯ HD
+#EXTINF:-1 group-title="КИНО", КИНОСЕРИЯ HD
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/kinoseriya/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1775", КЛАССИКА КИНО
+#EXTINF:-1 group-title="КИНО", КЛАССИКА КИНО
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/movieclassic/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2198", НАШЕ HD
+#EXTINF:-1 group-title="КИНО", НАШЕ HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/nashe/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB321", НТВ СЕРИАЛ
+#EXTINF:-1 group-title="КИНО", НТВ СЕРИАЛ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/ntvserial/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB325", НТВ ХИТ
+#EXTINF:-1 group-title="КИНО", НТВ ХИТ
 http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/ntvhit/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB3078", VIASAT KINO HD CEE
+#EXTINF:-1 group-title="КИНО", VIASAT KINO HD CEE
 http://c.velestore.su:8880/bal_c13l8u2d4f9l1a3r7e13/TV1000_CEE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB61", FAMILYJAM HD
+#EXTINF:-1 group-title="КИНО", FAMILYJAM HD
 http://c.velestore.su:8880/bal_c9l8u2d4f9l1a3r7e9/FAMILY_JAM/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB292", МОСФИЛЬМ: ЗОЛОТАЯ КОЛЛЕКЦИЯ
+#EXTINF:-1 group-title="КИНО", МОСФИЛЬМ: ЗОЛОТАЯ КОЛЛЕКЦИЯ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/MOSFILM/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB215", ИНДИЙСКОЕ КИНО
+#EXTINF:-1 group-title="КИНО", ИНДИЙСКОЕ КИНО
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/indiiskoe_kino/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB46", СИНЕМА HD
+#EXTINF:-1 group-title="КИНО", СИНЕМА HD
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/cinema_HD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB73", HOLLYWOOD HD
+#EXTINF:-1 group-title="КИНО", HOLLYWOOD HD
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/Hollywood_HD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB431", ФЕНИКС+КИНО HD
+#EXTINF:-1 group-title="КИНО", ФЕНИКС+КИНО HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/fenix_plus_kino_hd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB126", STAR FAMILY HD RU
+#EXTINF:-1 group-title="КИНО", STAR FAMILY HD RU
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/star_family_ru_hd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB83", KINOLIVING HD
+#EXTINF:-1 group-title="КИНО", KINOLIVING HD
 http://c.velestore.su:8880/bal_c3l8u2d4f9l1a3r7e3/kino_living_hd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB125", STAR CINEMA HD RU
+#EXTINF:-1 group-title="КИНО", STAR CINEMA HD RU
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/star_cinema_ru_hd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1790", КРИМИНАЛЬНОЕ HD
+#EXTINF:-1 group-title="КИНО", КРИМИНАЛЬНОЕ HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/kriminalnoe_hd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1773", KION ХИТ HD
+#EXTINF:-1 group-title="КИНО", KION ХИТ HD
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/kion_hit_hd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB724", 4К РУССКОЕ КИНО
+#EXTINF:-1 group-title="КИНО", 4К РУССКОЕ КИНО
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/true_crime_hd/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB226", КИНЕКО HD
+#EXTINF:-1 group-title="КИНО", КИНЕКО HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/KINEKO_HD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB379", САПФИР HD
+#EXTINF:-1 group-title="КИНО", САПФИР HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/SAPHIR_HD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB258", ЛАВСТОРИ HD
+#EXTINF:-1 group-title="КИНО", ЛАВСТОРИ HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936903/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB101", ROMANCE HD
+#EXTINF:-1 group-title="КИНО", ROMANCE HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936905/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB130", SUSPENSE HD
+#EXTINF:-1 group-title="КИНО", SUSPENSE HD
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936906/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4308", VELES PREMIERE
+#EXTINF:-1 group-title="КИНО", VELES PREMIERE
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_PREMIERE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4315", VELES КОМЕДИЯ
+#EXTINF:-1 group-title="КИНО", VELES КОМЕДИЯ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936901/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4310", VELES MOVIE HITS
+#EXTINF:-1 group-title="КИНО", VELES MOVIE HITS
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_MOVIE_HITS/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4318", VELES ТРИЛЛЕР
+#EXTINF:-1 group-title="КИНО", VELES ТРИЛЛЕР
 http://c.velestore.su:8880/bal_c2l8u2d4f9l1a3r7e2/08936925/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4319", VELES СЕМЕЙНЫЙ
+#EXTINF:-1 group-title="КИНО", VELES СЕМЕЙНЫЙ
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936909/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4303", VELES СССР
+#EXTINF:-1 group-title="КИНО", VELES СССР
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_USSSR/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4316", VELES НАШЕ КИНО
+#EXTINF:-1 group-title="КИНО", VELES НАШЕ КИНО
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936911/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4309", VELES КИНОПЛЁНКА
+#EXTINF:-1 group-title="КИНО", VELES КИНОПЛЁНКА
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_KINOPLENKA/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4320", VELES ВЕСТЕРН
+#EXTINF:-1 group-title="КИНО", VELES ВЕСТЕРН
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936910/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4313", VELES 60 FPS
+#EXTINF:-1 group-title="КИНО", VELES 60 FPS
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_60FPS/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4307", VELES СТРАШНОЕ
+#EXTINF:-1 group-title="КИНО", VELES СТРАШНОЕ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_STRASHNOE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4321", VELES ГОБЛИН
+#EXTINF:-1 group-title="КИНО", VELES ГОБЛИН
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/08936912/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4314", VELES С НОВЫМ ГОДОМ!
+#EXTINF:-1 group-title="КИНО", VELES С НОВЫМ ГОДОМ!
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936906/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4306", VELES КИНОСЕРИЯ
+#EXTINF:-1 group-title="КИНО", VELES КИНОСЕРИЯ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_KINOSERIES/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4304", VELES КРИМИНАЛЬНЫЙ
+#EXTINF:-1 group-title="КИНО", VELES КРИМИНАЛЬНЫЙ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_CRIMINAL/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4312", VELES KIDS
+#EXTINF:-1 group-title="КИНО", VELES KIDS
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_KIDS/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4317", VELES АНИМЕ
+#EXTINF:-1 group-title="КИНО", VELES АНИМЕ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936904/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4305", VELES DJ SET
+#EXTINF:-1 group-title="КИНО", VELES DJ SET
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_DJ_SET/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4311", VELES МАГНИТОФОН
+#EXTINF:-1 group-title="КИНО", VELES МАГНИТОФОН
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/VELES_MAGNITOFON/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB453", YOSSO TV GRAND
+#EXTINF:-1 group-title="КИНО", YOSSO TV GRAND
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-GRAND/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB481", YOSSO TV VHS
+#EXTINF:-1 group-title="КИНО", YOSSO TV VHS
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-VHS/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB462", YOSSO TV KIDS
+#EXTINF:-1 group-title="КИНО", YOSSO TV KIDS
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-KIDS/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB472", YOSSO TV РУССКИЕ ФИЛЬМЫ
+#EXTINF:-1 group-title="КИНО", YOSSO TV РУССКИЕ ФИЛЬМЫ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-RUS/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB476", YOSSO TV СОВЕТСКИЕ ФИЛЬМЫ
+#EXTINF:-1 group-title="КИНО", YOSSO TV СОВЕТСКИЕ ФИЛЬМЫ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-SSSR/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB470", YOSSO TV NEW КИНО
+#EXTINF:-1 group-title="КИНО", YOSSO TV NEW КИНО
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-NEW/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB475", YOSSO TV СОЮЗМУЛЬТ
+#EXTINF:-1 group-title="КИНО", YOSSO TV СОЮЗМУЛЬТ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-MULT/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB466", YOSSO TV MUSIC HITS
+#EXTINF:-1 group-title="КИНО", YOSSO TV MUSIC HITS
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-MUSIC-HITS/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB479", YOSSO TV ТРАГИЧНОЕ
+#EXTINF:-1 group-title="КИНО", YOSSO TV ТРАГИЧНОЕ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-TRAGIC/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB482", YOSSO TV ЗАБАВНОЕ
+#EXTINF:-1 group-title="КИНО", YOSSO TV ЗАБАВНОЕ
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/Y-ZABAVNOE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB458", YOSSO TV BEST
+#EXTINF:-1 group-title="КИНО", YOSSO TV BEST
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-BEST/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB464", YOSSO TV КОВБОЙСКОЕ
+#EXTINF:-1 group-title="КИНО", YOSSO TV КОВБОЙСКОЕ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-KOWBOY/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB456", YOSSO TV ADRENALINE
+#EXTINF:-1 group-title="КИНО", YOSSO TV ADRENALINE
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-ADRENALINE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB471", YOSSO TV OBLIVION
+#EXTINF:-1 group-title="КИНО", YOSSO TV OBLIVION
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/Y-OBLIVION/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB457", YOSSO TV ADVENTURE
+#EXTINF:-1 group-title="КИНО", YOSSO TV ADVENTURE
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-ADVENTURE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB478", YOSSO TV THRILLER
+#EXTINF:-1 group-title="КИНО", YOSSO TV THRILLER
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/Y-THRILLER/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB455", YOSSO 4K
+#EXTINF:-1 group-title="КИНО", YOSSO 4K
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-4K/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB467", YOSSO TV NATURE
+#EXTINF:-1 group-title="КИНО", YOSSO TV NATURE
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-NATURE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB452", C-MARVEL HD
+#EXTINF:-1 group-title="КИНО", C-MARVEL HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-C-MARVEL/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1099", C-CARTOON HD
+#EXTINF:-1 group-title="КИНО", C-CARTOON HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-C-CARTOON/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB450", C-INQUEST HD
+#EXTINF:-1 group-title="КИНО", C-INQUEST HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/C-INQUEST1/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB447", C-COMEDY HD
+#EXTINF:-1 group-title="КИНО", C-COMEDY HD
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/C-IIICOMEDYIII/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB446", YOSSO TV BEST 60 FPS
+#EXTINF:-1 group-title="КИНО", YOSSO TV BEST 60 FPS
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-BEST_60FPS/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB459", YOSSO TV DISNEY
+#EXTINF:-1 group-title="КИНО", YOSSO TV DISNEY
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-DISNEY/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB460", YOSSO TV FOOD
+#EXTINF:-1 group-title="КИНО", YOSSO TV FOOD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-FOOD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB469", YOSSO TV NETFLIX
+#EXTINF:-1 group-title="КИНО", YOSSO TV NETFLIX
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-NETFLIX/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB449", C-HOLIDAY HD
+#EXTINF:-1 group-title="КИНО", C-HOLIDAY HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936905/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB461", YOSSO TV 4K HDR
+#EXTINF:-1 group-title="КИНО", YOSSO TV 4K HDR
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-4K_HDR/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB468", YOSSO TV НАШЕ ДЕТСКОЕ
+#EXTINF:-1 group-title="КИНО", YOSSO TV НАШЕ ДЕТСКОЕ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-DETSKOE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB473", YOSSO TV SCIENCE
+#EXTINF:-1 group-title="КИНО", YOSSO TV SCIENCE
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-SCIENCE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB448", C-HISTORY HD
+#EXTINF:-1 group-title="КИНО", C-HISTORY HD
 http://c.velestore.su:8880/bal_c8l8u2d4f9l1a3r7e8/Y-C-HISTORY/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB465", YOSSO TV МЕЛОДРАМА
+#EXTINF:-1 group-title="КИНО", YOSSO TV МЕЛОДРАМА
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-Melodrama/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB477", YOSSO TV СОВЕТСКИЕ ФИЛЬМЫ 4K
+#EXTINF:-1 group-title="КИНО", YOSSO TV СОВЕТСКИЕ ФИЛЬМЫ 4K
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-SSSR_4K/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB451", C-LIVE HD
+#EXTINF:-1 group-title="КИНО", C-LIVE HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-C-LIVE/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB480", YOSSO TV TRAVEL
+#EXTINF:-1 group-title="КИНО", YOSSO TV TRAVEL
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/Y-TRAVEL/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB445", YOSSO TV BEST 60 FPS BOX
+#EXTINF:-1 group-title="КИНО", YOSSO TV BEST 60 FPS BOX
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936923/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB866", ATV CINEMAN
+#EXTINF:-1 group-title="КИНО", ATV CINEMAN
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/ATV_Cineman/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB864", ATV FILMZONE
+#EXTINF:-1 group-title="КИНО", ATV FILMZONE
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/ATV_FilmZone/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB3134", ТВОЁ ТВ HD
+#EXTINF:-1 group-title="КИНО", ТВОЁ ТВ HD
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/tvoe_tv/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB885", БАЛЕТ ОПЕРА
+#EXTINF:-1 group-title="КИНО", БАЛЕТ ОПЕРА
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936924/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB866", ATV KINOMAN HD
+#EXTINF:-1 group-title="КИНО", ATV KINOMAN HD
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/ATV_Kinoman_HD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB863", ATV BAZMOC HD
+#EXTINF:-1 group-title="КИНО", ATV BAZMOC HD
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/ATV_Bazmoc_HD/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB3129", ТВОЁ ТВ ЮМОР HD
+#EXTINF:-1 group-title="КИНО", ТВОЁ ТВ ЮМОР HD
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936904/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1734", КИНО 1
+#EXTINF:-1 group-title="КИНО", КИНО 1
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936907/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1737", КИНО 1 INTERNATIONAL
+#EXTINF:-1 group-title="КИНО", КИНО 1 INTERNATIONAL
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936908/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1738", КИНО 2
+#EXTINF:-1 group-title="КИНО", КИНО 2
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936909/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1738", КИНО 2 ORG
+#EXTINF:-1 group-title="КИНО", КИНО 2 ORG
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936910/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB2650", СЕРИАЛ
+#EXTINF:-1 group-title="КИНО", СЕРИАЛ
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936911/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB3376", ВОЕННОЕ КИНО
+#EXTINF:-1 group-title="КИНО", ВОЕННОЕ КИНО
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936912/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1288", ДЕТСКОЕ КИНО
+#EXTINF:-1 group-title="КИНО", ДЕТСКОЕ КИНО
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936913/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB1289", ДЕТСКОЕ КИНО INTERNATIONAL
+#EXTINF:-1 group-title="КИНО", ДЕТСКОЕ КИНО INTERNATIONAL
 http://c.velestore.su:8880/bal_c6l8u2d4f9l1a3r7e6/08936914/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4251", KARLSON TV ГУБКА БОБ
+#EXTINF:-1 group-title="КИНО", KARLSON TV ГУБКА БОБ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936909/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4254", KARLSON TV ЩЕНЯЧИЙ ПАТРУЛЬ
+#EXTINF:-1 group-title="КИНО", KARLSON TV ЩЕНЯЧИЙ ПАТРУЛЬ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936910/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4252", KARLSON TV ИНТЕРНЫ
+#EXTINF:-1 group-title="КИНО", KARLSON TV ИНТЕРНЫ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936911/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4257", KARLSON TV ТОМ И ДЖЕРРИ
+#EXTINF:-1 group-title="КИНО", KARLSON TV ТОМ И ДЖЕРРИ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936912/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4253", KARLSON TV MY LITTLE PONY
+#EXTINF:-1 group-title="КИНО", KARLSON TV MY LITTLE PONY
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936913/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4256", KARLSON TV СУПЕР КРЫЛЬЯ ДЖЕТТ И ЕГО ДРУЗ
+#EXTINF:-1 group-title="КИНО", KARLSON TV СУПЕР КРЫЛЬЯ ДЖЕТТ И ЕГО ДРУЗ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936914/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4258", KARLSON TV УТИНЫЕ ИСТОРИИ
+#EXTINF:-1 group-title="КИНО", KARLSON TV УТИНЫЕ ИСТОРИИ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936915/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4249", KARLSON TV ЧЁРНЫЙ ПЛАЩ
+#EXTINF:-1 group-title="КИНО", KARLSON TV ЧЁРНЫЙ ПЛАЩ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936919/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4255", KARLSON TV СИМПСОНЫ
+#EXTINF:-1 group-title="КИНО", KARLSON TV СИМПСОНЫ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936916/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4285", KARLSON TV СВАТЫ
+#EXTINF:-1 group-title="КИНО", KARLSON TV СВАТЫ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936920/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4250", KARLSON TV ЧИП И ДЕЙЛ
+#EXTINF:-1 group-title="КИНО", KARLSON TV ЧИП И ДЕЙЛ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936917/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="NOEPG18", KARLSON TV МИМИМИШКИ
+#EXTINF:-1 group-title="КИНО", KARLSON TV МИМИМИШКИ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936921/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4259", KARLSON TV ЮЖНЫЙ ПАРК
+#EXTINF:-1 group-title="КИНО", KARLSON TV ЮЖНЫЙ ПАРК
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936918/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4261", KARLSON TV ГРИФФИНЫ
+#EXTINF:-1 group-title="КИНО", KARLSON TV ГРИФФИНЫ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936922/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4263", KARLSON TV СМЕШАРИКИ
+#EXTINF:-1 group-title="КИНО", KARLSON TV СМЕШАРИКИ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936923/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4278", KARLSON TV БУБА
+#EXTINF:-1 group-title="КИНО", KARLSON TV БУБА
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936924/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4265", KARLSON TV ГУФИ И ЕГО КОМАНДА
+#EXTINF:-1 group-title="КИНО", KARLSON TV ГУФИ И ЕГО КОМАНДА
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936925/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4264", KARLSON TV ФИКСИКИ
+#EXTINF:-1 group-title="КИНО", KARLSON TV ФИКСИКИ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936926/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4266", KARLSON TV ФУТУРАМА
+#EXTINF:-1 group-title="КИНО", KARLSON TV ФУТУРАМА
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936927/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4274", KARLSON TV СВЕРХЪЕСТЕСТВЕННОЕ
+#EXTINF:-1 group-title="КИНО", KARLSON TV СВЕРХЪЕСТЕСТВЕННОЕ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936928/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4267", KARLSON TV ГРАВИТИ ФОЛЗ
+#EXTINF:-1 group-title="КИНО", KARLSON TV ГРАВИТИ ФОЛЗ
 http://c.velestore.su:8880/bal_c0l8u2d4f9l1a3r7e0/08936929/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4277", KARLSON TV СЕРИАЛЫ
+#EXTINF:-1 group-title="КИНО", KARLSON TV СЕРИАЛЫ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936914/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4269", KARLSON TV ЛЕДИ БАГ И СУПЕР-КОТ
+#EXTINF:-1 group-title="КИНО", KARLSON TV ЛЕДИ БАГ И СУПЕР-КОТ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936915/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4270", KARLSON TV АМЕРИКАНСКИЙ ПАПАША
+#EXTINF:-1 group-title="КИНО", KARLSON TV АМЕРИКАНСКИЙ ПАПАША
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936916/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4271", KARLOSON TV ЛУНТИК
+#EXTINF:-1 group-title="КИНО", KARLOSON TV ЛУНТИК
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936917/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4272", KARLSON TV МАША И МЕДВЕДЬ
+#EXTINF:-1 group-title="КИНО", KARLSON TV МАША И МЕДВЕДЬ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936918/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4260", KARLSON TV ЧЕРЕПАШКИ НИНДЗЯ
+#EXTINF:-1 group-title="КИНО", KARLSON TV ЧЕРЕПАШКИ НИНДЗЯ
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936919/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4275", KARLSON TV ТИМОН И ПУМБА
+#EXTINF:-1 group-title="КИНО", KARLSON TV ТИМОН И ПУМБА
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936920/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4276", KARLSON TV ТРИ КОТА
+#EXTINF:-1 group-title="КИНО", KARLSON TV ТРИ КОТА
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936921/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
-#EXTINF:-1 group-title="ELB4268", KARLSON TV СТУДИЯ АЛЬТЕРНАТИВНОГО ПЕРЕВО
+#EXTINF:-1 group-title="КИНО", KARLSON TV СТУДИЯ АЛЬТЕРНАТИВНОГО ПЕРЕВО
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/08936922/video.m3u8?token=UmFzc2xhYnVoYXx8Wm05dFlURXdOVGN5T1RnPQ==
+
+
+
+
 #EXTINF:-1 group-title="VF", VF СЕРИАЛЫ ТУРЦИИ
 http://woobl.ru/op/WW05eWIzWnBZMmhtYjIxaFFHZHRZV2xzTG1OdmJRPT0/1537.m3u8
 #EXTINF:-1 group-title="VF", VF ВЕСТЕРН
