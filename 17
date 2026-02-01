@@ -1,47 +1,46 @@
 #EXTM3U
-#EXTINF:-1 group-title="1.FM - A LIST 80S", 1.FM - A LIST 80S
+#EXTINF:-1 group-title="РАДИО", 1.FM - A LIST 80S
 http://prmstrm.1.fm:8000/back280s
-#EXTINF:-1 group-title="1.FM - ABSOLUTE 90'S", 1.FM - ABSOLUTE 90'S
+#EXTINF:-1 group-title="РАДИО", 1.FM - ABSOLUTE 90'S
 http://prmstrm.1.fm:8000/90s
-#EXTINF:-1 group-title="1.FM - ABSOLUTE COUN", 1.FM - ABSOLUTE COUNTRY HITS
+#EXTINF:-1 group-title="РАДИО", 1.FM - ABSOLUTE COUNTRY HITS
 http://prmstrm.1.fm:8000/acountry
-#EXTINF:-1 group-title="1.FM - ABSOLUTE TRAN", 1.FM - ABSOLUTE TRANCE
+#EXTINF:-1 group-title="РАДИО", 1.FM - ABSOLUTE TRANCE
 http://prmstrm.1.fm:8000/trance
-#EXTINF:-1 group-title="1.FM - ACAPPELLA", 1.FM - ACAPPELLA
+#EXTINF:-1 group-title="РАДИО", 1.FM - ACAPPELLA
 http://prmstrm.1.fm:8000/acpl
-#EXTINF:-1 group-title="1.FM - AFTERBEAT ELE", 1.FM - AFTERBEAT ELECTRONICA
+#EXTINF:-1 group-title="РАДИО", 1.FM - AFTERBEAT ELECTRONICA
 http://prmstrm.1.fm:8000/electronica
-#EXTINF:-1 group-title="1.FM - ALL EURO 80'S", 1.FM - ALL EURO 80'S
+#EXTINF:-1 group-title="РАДИО", 1.FM - ALL EURO 80'S
 http://prmstrm.1.fm:8000/80s_90s
-#EXTINF:-1 group-title="1.FM - ALTERNATIVE R", 1.FM - ALTERNATIVE ROCK X HITS
+#EXTINF:-1 group-title="РАДИО", 1.FM - ALTERNATIVE ROCK X HITS
 http://prmstrm.1.fm:8000/x
-#EXTINF:-1 group-title="1.FM - AMSTERDAM TRA", 1.FM - AMSTERDAM TRANCE
+#EXTINF:-1 group-title="РАДИО", 1.FM - AMSTERDAM TRANCE
 http://prmstrm.1.fm:8000/atr
-#EXTINF:-1 group-title="1.FM - BACK TO THE 5", 1.FM - BACK TO THE 50'S & 60'S
+#EXTINF:-1 group-title="РАДИО", 1.FM - BACK TO THE 50'S & 60'S
 http://prmstrm.1.fm:8000/60s_70s
-#EXTINF:-1 group-title="1.FM - CHILLOUT LOUN", 1.FM - CHILLOUT LOUNGE
+#EXTINF:-1 group-title="РАДИО", 1.FM - CHILLOUT LOUNGE
 http://prmstrm.1.fm:8000/chilloutlounge
-#EXTINF:-1 group-title="1.FM - CLUB 1 RADIO", 1.FM - CLUB 1 RADIO
+#EXTINF:-1 group-title="РАДИО", 1.FM - CLUB 1 RADIO
 http://prmstrm.1.fm:8000/club
-#EXTINF:-1 group-title="1.FM - DEEP HOUSE", 1.FM - DEEP HOUSE
+#EXTINF:-1 group-title="РАДИО", 1.FM - DEEP HOUSE
 http://prmstrm.1.fm:8000/deephouse
-#EXTINF:-1 group-title="1.FM - DUBSTEP FORWA", 1.FM - DUBSTEP FORWARD
+#EXTINF:-1 group-title="РАДИО", 1.FM - DUBSTEP FORWARD
 http://prmstrm.1.fm:8000/dubstep
-#EXTINF:-1 group-title="1.FM - REGGAE TRADE", 1.FM - REGGAE TRADE
+#EXTINF:-1 group-title="РАДИО", 1.FM - REGGAE TRADE
 http://prmstrm.1.fm:8000/reggae
-#EXTINF:-1 group-title="RADIO 1MIX EDM", RADIO 1MIX EDM
+#EXTINF:-1 group-title="РАДИО", RADIO 1MIX EDM
 http://fr1.1mix.co.uk:8060/320h
-#EXTINF:-1 group-title="RADIO 1MIX TRANCE", RADIO 1MIX TRANCE
+#EXTINF:-1 group-title="РАДИО", RADIO 1MIX TRANCE
 http://fr1.1mix.co.uk:8060/320
-#EXTINF:-1 group-title="RADIO RECORD", RADIO RECORD
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD
 http://radiorecord.hostingradio.ru/rr_main96.aacp
-#EXTINF:-1 group-title="RADIO RECORD (БОРОВИ", RADIO RECORD (БОРОВИЧИ)
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD (БОРОВИЧИ)
 http://nov.rlnk.ru:8000/radio.recrdb
-#EXTINF:-1 group-title="RADIO RECORD (ВЫШНИЙ", RADIO RECORD (ВЫШНИЙ ВОЛОЧЕК)
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD (ВЫШНИЙ ВОЛОЧЕК)
 http://cp.time4radio.ru:8003/stream
-#EXTINF:-1 group-title="RADIO RECORD-70 DANC", RADIO RECORD-70 DANCE
+#EXTINF:-1 group-title="РАДИО", RADIO RECORD-70 DANCE
 http://radiorecord.hostingradio.ru/197096.aacp
-#EXTM3U
 #EXTINF:-1 group-title="РАДИО", RADIO RECORD-00Х
 http://radiorecord.hostingradio.ru/200096.aacp
 #EXTINF:-1 group-title="РАДИО", RADIO RECORD-AMBIENT
